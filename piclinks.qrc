@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>images/circle.png</file>
+<file>images/enter_name.png</file>
+<file>images/game_over.png</file>
+<file>images/menu.png</file>
+<file>images/playfield.png</file>
+<file>images/skull.png</file>
+<file>images/square.png</file>
+<file>images/triangle.png</file>
+<file>images/button_mouseover.png</file>
+<file>images/button_pressed_exit.png</file>
+<file>images/button_pressed_highscore.png</file>
+<file>images/button_pressed_instructions.png</file>
+<file>images/button_pressed_new_game.png</file>
+<file>images/highscore.png</file>
+<file>images/instructions.png</file>
+<file>images/playfield_frame.png</file>
+<file>images/texture.png</file>
+</qresource>
+</RCC>
